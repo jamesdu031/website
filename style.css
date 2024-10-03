@@ -1,0 +1,73 @@
+﻿#bloc_page
+{
+	margin: auto;
+	width:80%;
+	text-align: center;
+}
+nav a:hover
+{
+	color:#92A9BD;
+}
+footer a:hover
+{
+	color:#10CAEF;
+}
+body
+{
+	background-image: url(images/wolverine2.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size:100% 100%;
+	color: white;
+	font-family: Lucida Console;
+}
+header h1 
+{
+	font-family: Courier New;
+	text-align: center;
+	color: floralwhite;
+	font-size: 3em;
+	text-shadow: 2pt 2pt 4pt black;
+	list-style-position: inside;
+	text-align: center;
+}
+h3
+{
+	font-family: Liberation Mono;
+}
+nav a 
+{
+	font-family: Georgia;
+	padding-right: 10px;
+	color: #10CAEF;
+}
+nav li
+{
+	display: inline;
+}
+
+.italic
+{
+	font-style: italic;
+}
+footer ul
+{
+	list-style-type: none;
+}
+a 
+{
+	text-decoration: none;
+}
+footer a 
+{
+	font-family: Lucida Sans Unicode;
+	color: #56F009;
+ }
+#aco
+{
+	list-style-image: url(images/AC_Origins.png);
+}
+#ac_unity
+{
+	list-style-image: url(images/AC_Unity.png);
+}
